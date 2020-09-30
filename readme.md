@@ -28,6 +28,6 @@ git clone https://github.com/SaiKarthikYamavaram/JobScraper
 Then open this repository in a code editor and run
 
 ```
-npm install
+yarn install
 node index.js
 ```
